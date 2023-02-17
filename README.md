@@ -36,9 +36,9 @@ BlackJack is a game that determines the winner and loser by determining who's cl
 2. CSS
 3. JavaScript
 
-The game 
+# The game 
 
-[Game Link](https://musaaledresse.github.io/Blackjack-pro/)
+[TopBlackjack](https://musaaledresse.github.io/Blackjack-pro/)
 
 
 # Next Steps:
