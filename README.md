@@ -9,7 +9,7 @@ BlackJack is a game that determines the winner and loser with who's closer to 21
 
 The game 
 
-[Game Link]: (https://blackjack-p1.musaaledresse.repl.co/)
+[Game Link]: (https://musaaledresse.github.io/Blackjack-pro/)
 
 
 # Next Steps:
