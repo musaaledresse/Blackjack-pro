@@ -1,0 +1,21 @@
+Starting the game:
+when the start game button is clicked, start button will disappear and the other 3 button will show (New Hand, Hit, Stand)
+when user clicks start the game generates a deck of cards randomly
+player recives 2 cards with the score above the cards 
+dealer recives 2 cards with the score above the cards
+
+Dealer:
+if the dealer recives 2 cards that the sum of it is 21 (blackjack). 
+the dealer automaticlly wins. if not he has to wait till stand is clicked and then he recives more cards. 
+if dealer is closer to 21 or gets 21 he wins, but if gets higher than 21.
+the dealer loses.
+
+Player:
+player has option for Hit, Stand, and new hand after a loss
+if the player recives 2 cards that the sum of them is 21 (blackjack). he wins the game, if not then he has the option to hit (recieve another card) untill his close to 21 in value and then he stands.
+if the player passes 21 he loses and the dealer wins
+
+
+
+Finish/Reseting the game: 
+when new hand is clicked, start button will show up to start up the game again
